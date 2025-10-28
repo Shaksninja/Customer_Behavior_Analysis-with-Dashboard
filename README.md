@@ -211,8 +211,6 @@ The Power BI dashboard includes:
 - Drill-through capabilities
 - Cross-report filtering
 
-**View Dashboard**: [Add link if deployed]
-
 ---
 
 ## 💡 Key Learnings
@@ -254,14 +252,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Mohammed Shakeeb**
 
 - GitHub: [@Shaksninja](https://github.com/Shaksninja)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/mohammed-shakeeb-b7357899
+- Email: shakeeb10@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Add source]
 - Inspired by real-world e-commerce analytics challenges
 - Special thanks to the data analysis community
 
